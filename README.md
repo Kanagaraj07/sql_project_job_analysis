@@ -72,7 +72,7 @@ limit 10;
 - Companies like **Meta**, **AT&T**, **SmartAsset**, and **Pinterest** appear among the highest-paying employers.
 - The salaries in the top 10 range from **$184K to $650K**, indicating a large salary gap based on role and experience.
 
-![top paying jobs](assets\query_1.png)
+![top paying jobs](assets/query_1.png)
 
 ## 2. Skills Required for Top Paying Jobs
 
@@ -131,7 +131,7 @@ ORDER BY
 - Cloud platforms including **AWS**, **Azure**, and **Snowflake** appear in several high-paying roles, indicating increasing demand for cloud data skills.
 - Employers also value supporting tools like **Excel**, **Git**, **Jira**, **Confluence**, and **Pandas**, showing that modern data analysts work across multiple technologies rather than relying on a single tool.
 
-![skill for top paying jobs](assets\query_2.png)
+![skill for top paying jobs](assets/query_2.png)
 
 ## 3. Most In-Demand Skills
 
@@ -181,7 +181,7 @@ limit 5;
 - **Python** is the third most requested skill, reflecting its importance for automation and data analysis.
 - Business Intelligence tools such as **Tableau** and **Power BI** are consistently in demand for data visualization and reporting.
 - The results suggest that a strong foundation in SQL, Excel, Python, and visualization tools covers the core technical requirements for many Data Analyst positions.
-![most in demand skill](assets\query_3.png)
+![most in demand skill](assets/query_3.png)
 
 ## 4. Top Paying Skills
 
@@ -222,7 +222,7 @@ limit 10;
 - Many of the highest-paying skills belong to cloud infrastructure, machine learning, and software engineering rather than traditional data analysis.
 - High salary alone does not indicate a good skill to learn, as several of these technologies have relatively low demand.
 
-![top paying skill](assets\query_4.png)
+![top paying skill](assets/query_4.png)
 ## 5. Most Optimal Skills (High Demand + High Salary)
 
 This query combines skill demand and average salary to identify technologies that provide the best balance between market demand and earning potential.
@@ -280,7 +280,7 @@ where
 - While niche technologies like **Go** offer higher salaries, they appear in significantly fewer job postings compared to SQL or Python.
 - The analysis suggests that learning **SQL, Python, Tableau, Power BI, and one cloud platform** provides an excellent balance between employability and salary potential.
 
-![most optimal skill](assets\query_5.png)
+![most optimal skill](assets/query_5.png)
 
 # Conclusion
 
