@@ -72,7 +72,7 @@ limit 10;
 - Companies like **Meta**, **AT&T**, **SmartAsset**, and **Pinterest** appear among the highest-paying employers.
 - The salaries in the top 10 range from **$184K to $650K**, indicating a large salary gap based on role and experience.
 
-![top pauing jobs](assets\query_1.png)
+![top paying jobs](assets\query_1.png)
 
 ## 2. Skills Required for Top Paying Jobs
 
